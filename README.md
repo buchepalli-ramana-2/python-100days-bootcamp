@@ -1,4 +1,5 @@
 # python-100days-bootcamp
+
 ## Day 01
 - Print function
 - input function
