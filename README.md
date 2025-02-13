@@ -9,3 +9,10 @@
 - Mathematics operators
 - BMI calculator
 - tip calculator as project
+## Day 03
+- Conditional statements
+- Logical Operators
+- Code blocks
+- Scope
+- Pizza ordering
+- BMI result
