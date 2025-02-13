@@ -3,14 +3,19 @@
 ##### Condition check,
     Learn to use conditionals in python to check a conditions and tell the computer what to do in each case.
     
-e.g.:
+e.g. 
 
-```if``` < this condition is true >:
+```python
+
+if < this condition True >:
       < the execute this line of code>
-```elif``` < this condition is true >:
+
+elif < this condition True >:
         < execute this line of code>
-```else```
+
+else
       < execute this line of code >
+```
 
 ## Nested conditionals
 - we can add ```if/else``` in another ```if/else``` statments
@@ -31,9 +36,11 @@ if english_score >=90:
 ## Modulo Operator (%)
 - Modulo operator(%) between two numbers gives us the reminder.
 
-e.g: 9 % 3 = 0, 8 % 3 = 2
+e.g: 
 
-It is very useful to find out the given number is EVEN,ODD,PRIME number.
+    9 % 3 = 0, 8 % 3 = 2
+
+It is very useful to find out the given number is EVEN, ODD, PRIME number.
 
 ## Logical Operators
 - You can combine different conditions using logical operators.
@@ -41,3 +48,8 @@ It is very useful to find out the given number is EVEN,ODD,PRIME number.
 - A ```and``` B #_Both conditions need to be ```True```_
 - C ```or``` D #_Only one condition needs to be ```True```_
 - ```not``` E #_THe condition must be ```False```_
+
+## Project
+- ```Title```:  __Treasure hunt__
+- Refer the [flowchart](https://github.com/buchepalli-ramana-2/python-100days-bootcamp/blob/main/Day-03/TreasureIslandFlowchart.pdf) and write the code using logical operators and ask for the user input & return the results based on flowchart.
+- Use your own [ASCII ART](https://ascii.co.uk/art#google_vignette) for your game
