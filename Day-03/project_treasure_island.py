@@ -28,4 +28,33 @@ ____/______/______/______/______/_____"=.o|o_.--""___/______/______/______/____
 /______/______/______/______/______/______/______/______/______/______/[TomekK]
 ******************************************************************************* 
 ''')
+print('''Welcome to Treasure Island.
+Your mission is to find the treasure.''')
+
+direction = input("Enter the direction you want go? ")
+
+if direction == "Left":
+    
+    action = input("Do you want to swim or wait? ")
+    if action == "Wait":
+        doors = input('''You're infront of three doors. 
+               select one door\n''')
+        
+        if doors == "Red":
+            print('''Burn by fire.Game Over!!!''')
+                  
+        elif doors == "Blue":
+            print("Eaten by beasts.Game Over!!!")
+            
+        elif doors == "Yellow":
+            print("You Win!!")
+            
+        else:
+            print("Game Over!")        
+    else:
+            print('''Attacked by trout
+          Game Over!!!''')
+else:
+    print('''Fall into a whole.Game Over.!!''')
+
 

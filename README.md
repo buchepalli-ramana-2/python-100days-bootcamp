@@ -16,3 +16,4 @@
 - Scope
 - Pizza ordering
 - BMI result
+- Treasure hunt project
