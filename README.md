@@ -17,3 +17,8 @@
 - Pizza ordering
 - BMI result
 - Treasure hunt project
+## Day 04
+- Randomisation
+- Python Lists
+- [who will pay the bill](Day-04/who_will_pay.py)
+- [Rock_scissor_paper](Day-04/rock_scissor_paper.py)
