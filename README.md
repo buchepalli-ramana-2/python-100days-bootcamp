@@ -21,4 +21,9 @@
 - Randomisation
 - Python Lists
 - [who will pay the bill](Day-04/who_will_pay.py)
-- [Rock_scissor_paper](Day-04/rock_scissor_paper.py)
+- [Rock_scissor_paper](Day-04/project_rock_scissor_paper.py)
+## Day 05
+- For Loops
+- Range
+- [FizzBuzz game](Day-05/fizzbuzz.py)
+- [password generator](Day-05/project_pypassword_generator.py) will create easy and hard passwords
