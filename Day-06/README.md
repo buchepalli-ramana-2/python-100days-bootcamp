@@ -30,7 +30,7 @@ while condition_is_true:
 
 ##### Reeborg's world hurdle2 challenge reference
 - [reeborgs_world.py](reeborgs_world.py)
-- [Click Here] (https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json) for reeborg's hurdle2 challenge
+- [Click Here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%202&url=worlds%2Ftutorial_en%2Fhurdle2.json) for reeborg's hurdle2 challenge
  
  ![here is reference image](reeborg'sWorld_hurdle2.jpg)
 
