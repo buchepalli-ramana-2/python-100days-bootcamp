@@ -32,3 +32,6 @@
 - [Reeboger's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) and take reference of [reebogers_world.py](Day-06/reebogers_world.py)
 - While loop
 - In contrast to a ```for``` loop, which is generally used when the number of iterations is known beforehand, a ```while``` loop is ideal for situations where the number of iterations is not predetermined and depends on some dynamic condition
+- [Reeborg's world hurdle2](Day-06/reebogers_world.py) for known number of hurdles
+- [Reeborg's world hurdle3](Day-06/reebogers_world_hurdle3.py) for unknown number of hurdles
+- [Reeborg's world hurdle4](Day-06/reebogers_world_hurdle4.py) for unknown number of hurdles and variable heights
