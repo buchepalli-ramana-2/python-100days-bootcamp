@@ -27,3 +27,8 @@
 - Range
 - [FizzBuzz game](Day-05/fizzbuzz.py)
 - [password generator](Day-05/project_pypassword_generator.py) will create easy and hard passwords
+## Day 06
+- Functions
+- [Reeboger's world](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%201&url=worlds%2Ftutorial_en%2Fhurdle1.json) and take reference of [reebogers_world.py](Day-06/reebogers_world.py)
+- While loop
+- In contrast to a ```for``` loop, which is generally used when the number of iterations is known beforehand, a ```while``` loop is ideal for situations where the number of iterations is not predetermined and depends on some dynamic condition
