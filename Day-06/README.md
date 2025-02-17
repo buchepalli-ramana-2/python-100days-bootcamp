@@ -47,4 +47,9 @@ while condition_is_true:
 -[Click Here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Hurdle%204&url=worlds%2Ftutorial_en%2Fhurdle4.json) for challenge of jumping over hurdles with variable heights.
 
 - Reeborg's world hurdle4 challenge reference image
- - ![Here is refence image](reebogers_world_hurdle4.py)
+ - ![Here is refence image](reeborg'sworld_hurdle4.jpg)
+
+##### Reeborg's world maze escape project
+- [project reeborgs world maze escape](project_reeborgs_world_maze_escape.py)
+- [Click Here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) for maze escape project.
+- Reeborg's world maze escape project reference image ![maze escape project image](reeborg'sworld_maze_escape.jpg)

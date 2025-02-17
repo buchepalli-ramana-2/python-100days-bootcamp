@@ -35,3 +35,5 @@
 - [Reeborg's world hurdle2](Day-06/reebogers_world.py) for known number of hurdles
 - [Reeborg's world hurdle3](Day-06/reebogers_world_hurdle3.py) for unknown number of hurdles
 - [Reeborg's world hurdle4](Day-06/reebogers_world_hurdle4.py) for unknown number of hurdles and variable heights
+- Project [Reeborg's world maze escape](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+- project code[project maze escape](Day-06/project_reeborgs_world_maze_escape.py)
