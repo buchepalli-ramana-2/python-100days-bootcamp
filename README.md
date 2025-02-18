@@ -37,3 +37,6 @@
 - [Reeborg's world hurdle4](Day-06/reebogers_world_hurdle4.py) for unknown number of hurdles and variable heights
 - Project [Reeborg's world maze escape](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 - project code[project maze escape](Day-06/project_reeborgs_world_maze_escape.py)
+## Day 07
+- [Hangman game](https://hangmanwordgame.com/?fca=1&success=0#/) project
+- [Hangman game demo](https://appbrewery.github.io/python-day7-demo/)
