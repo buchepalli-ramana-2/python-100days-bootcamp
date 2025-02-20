@@ -40,3 +40,6 @@
 ## Day 07
 - [Hangman game](https://hangmanwordgame.com/?fca=1&success=0#/) project
 - [Hangman game demo](https://appbrewery.github.io/python-day7-demo/)
+
+## Day 08
+- Functions with inputs
