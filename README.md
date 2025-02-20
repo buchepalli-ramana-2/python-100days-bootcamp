@@ -43,3 +43,6 @@
 
 ## Day 08
 - Functions with Inputs
+- [life in weeks](Day-08/life_in_weeks.py)
+- [calculate love score](Day-08/calculate_love_score.py)
+- [caeser cipher part1](Day-08/caeser_cipher_part1.py)
