@@ -42,4 +42,4 @@
 - [Hangman game demo](https://appbrewery.github.io/python-day7-demo/)
 
 ## Day 08
-- Functions with inputs
+- Functions with Inputs
