@@ -17,6 +17,8 @@ while other_bidder_exists:
         if value == max(bid_values):
             bidder = key
         print(f"Bid winner is: {bidder}")
+    else:
+        print("\n" * 10)
 
 
         
