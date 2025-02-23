@@ -37,3 +37,8 @@ for i in range(2, 4):
     print()
 
 ```
+- __Note:__ To get the key of maximum of values in dictionary
+```python
+    fruits = {"orange": 12,"apple": 20,"watermelone": 10}
+    max_value = max(fruits, key=fruits.get())
+```
