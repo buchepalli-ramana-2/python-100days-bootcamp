@@ -54,3 +54,8 @@
 - [Grading Program](Day-09/grading_program.py)
 - [Secret auction](Day-09/secret_auction.py)
 
+## Day 10
+- Functions and outputs
+- [Leap Year](Day-10/leap_year.py)
+- [Calculator Project](Day-10/calculator.py)
+
