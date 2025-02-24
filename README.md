@@ -59,3 +59,7 @@
 - [Leap Year](Day-10/leap_year.py)
 - [Calculator Project](Day-10/calculator.py)
 
+## Day 11
+- Capstone project(BlackJack game) we will apply all knowledge till learned
+- [BlackJack online game](https://games.washingtonpost.com/games/blackjack) for reference
+- for more details [Click here](https://en.wikipedia.org/wiki/Blackjack)

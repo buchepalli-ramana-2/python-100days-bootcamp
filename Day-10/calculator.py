@@ -16,8 +16,10 @@ def mul(a, b):
 operations = {"+": add,"-": sub, "/": div, "*": mul}
 
 def calculator():
-    print(calc_art.calc)
-    print(calc_art.calc_letter)
+    spacer = " "*5
+    for a,b in zip(calc_art.calc.splitlines(),calc_art.calc_letter.splitlines()):
+        print(f"{a}{spacer}{b}")
+    print("\n"*3)
     should_continue = True
     num1 = float(input("Enter the first number: "))
 
