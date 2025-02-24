@@ -63,3 +63,8 @@
 - Capstone project(BlackJack game) we will apply all knowledge till learned
 - [BlackJack online game](https://games.washingtonpost.com/games/blackjack) for reference
 - for more details [Click here](https://en.wikipedia.org/wiki/Blackjack)
+
+## Day 12
+- Namespaces and scopes
+- [Prime number](Day-12/prime_number.py)
+- [Guess number game](Day-12/guess_number_game.py)
