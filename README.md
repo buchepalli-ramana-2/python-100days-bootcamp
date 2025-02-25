@@ -68,3 +68,11 @@
 - Namespaces and scopes
 - [Prime number](Day-12/prime_number.py)
 - [Guess number game](Day-12/guess_number_game.py)
+
+## Day 13
+- Debugging and fixing
+- [Describe the problem](Day-13/task1.py)
+- [Reproduce the bug](Day-13/task2.py)
+- [play computer](Day-13/task3.py)
+- [Fix the errors](Day-13/task4.py)
+- [Use print statement](Day-13/task5.py)
