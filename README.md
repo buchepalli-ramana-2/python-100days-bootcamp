@@ -76,3 +76,6 @@
 - [play computer](Day-13/task3.py)
 - [Fix the errors](Day-13/task4.py)
 - [Use print statement](Day-13/task5.py)
+- [even or odd](Day-13/debug_even-odd.py)
+- [Is leapyear](Day-13/debug_leapyear.py)
+- [fizzbuzz](Day-13/debug_fizzbuzz.py)
