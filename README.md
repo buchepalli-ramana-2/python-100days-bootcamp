@@ -79,3 +79,6 @@
 - [even or odd](Day-13/debug_even-odd.py)
 - [Is leapyear](Day-13/debug_leapyear.py)
 - [fizzbuzz](Day-13/debug_fizzbuzz.py)
+
+## Day 14
+- [Higher Lower game](Day-14/Higher_Lower_game.py)
