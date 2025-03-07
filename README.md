@@ -82,3 +82,13 @@
 
 ## Day 14
 - [Higher Lower game](Day-14/Higher_Lower_game.py)
+
+## Day 15
+- [Coffe Machine Project](Day-15/coffee_machine.py)
+
+## Day 16
+- [Object Oriented Programing in Python](https://www.geeksforgeeks.org/python-oops-concepts/)
+- Working with _Turtle graphics_ and here the reference [Turtle graphics](https://docs.python.org/3/library/turtle.html)
+- working with _Pretty table_ package and [reference](https://pypi.org/project/prettytable/)
+- [coffee machine in OOP](Day-16/oop-coffee-machine-start/)
+- [Coffee machine class documentation](Day-16/CoffeeMachineClassesDocumentation.pdf)
