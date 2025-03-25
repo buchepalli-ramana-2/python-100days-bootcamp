@@ -92,3 +92,18 @@
 - working with _Pretty table_ package and [reference](https://pypi.org/project/prettytable/)
 - [coffee machine in OOP](Day-16/oop-coffee-machine-start/)
 - [Coffee machine class documentation](Day-16/CoffeeMachineClassesDocumentation.pdf)
+
+## Day 17
+- Creating own custom classes
+- Use [new_data.py](Day-17/quiz-game-start/new_data.py) as new question data and practice everything from scratch to get more more practice.
+
+## Day 18
+- Turtle Graphics, Tuples and importing modules
+- [Turtle graphics](https://docs.python.org/3/library/turtle.html) reference.
+- [Turtle colours](https://trinket.io/docs/colors) and [take a look here also](https://cs111.wellesley.edu/reference/colors)
+- [Turtle Module](https://docs.python.org/3/library/turtle.html)
+- [Square shape](Day-18/day-18-1-start/challenge1.py) - Move turtle in square shape or square shape.
+- [drawing dash line](Day-18/day-18-1-start/challenge1.py) - draw dashlines using color or penup and pendown() [reference](https://docs.python.org/3/library/turtle.html#turtle.pendown)
+- [drawing different shapes](Day-18/day-18-1-start/challenge3.py)
+- [Randomwalk wiki ](https://en.wikipedia.org/wiki/Random_walk)
+- [random walk program](Day-18/day-18-1-start/challenge4.py)
