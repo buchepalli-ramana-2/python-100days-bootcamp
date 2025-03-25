@@ -1,0 +1,14 @@
+#### Turtle Graphics, Tuples and importing modules
+- [Turtle graphics](https://docs.python.org/3/library/turtle.html) reference.
+- [Turtle colours](https://trinket.io/docs/colors) and [take a look here also](https://cs111.wellesley.edu/reference/colors)
+- [Turtle Module](https://docs.python.org/3/library/turtle.html)
+- [Challenge1](day-18-1-start/challenge1.py) - Move turtle in square shape or square shape
+- [Challenge2](day-18-1-start/challenge2.py) - drawing dash lines
+- [Challenge3](day-18-1-start/challenge3.py) - drawing different shapes
+- [Challenge4](day-18-1-start/challenge4.py) - [Random walk](https://en.wikipedia.org/wiki/Random_walk)
+- [colour mode](https://docs.python.org/2/library/turtle.html#turtle.colormode)
+- [pencolor](https://docs.python.org/3/library/turtle.html#turtle.pencolor)
+- [color](https://docs.python.org/3/library/turtle.html#turtle.color)
+- [Hirst painting](https://www.phillips.com/detail/damien-hirst/UK010422/22) - target painting for Hirst project.
+- [reference image](hirst-painting-start/image.jpg)
+- [colorgram package](https://pypi.org/project/colorgram.py/) -  will be useful for this project to extract the colors from the image and we can use those values to draw new images.
